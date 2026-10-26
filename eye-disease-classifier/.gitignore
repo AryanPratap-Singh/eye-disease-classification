@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/
+data/processed/
+artifacts/
+reports/
+*.keras
+*.h5
+*.zip
+.env
+.streamlit/secrets.toml
+tmp*/
